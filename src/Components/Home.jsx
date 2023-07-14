@@ -33,11 +33,11 @@ const Home = () => {
 
       const handleFourthButtonClick = () => {
         setMessage4("Here's a message")
-        setShowButton3(true);
+        setShowButton4(true);
       };
 
       const handleFifthButtonClick = () => {
-        setMessage4("I LOVE YOU!!")
+        setMessage5("I LOVE YOU!!")
       }
 
   return (
