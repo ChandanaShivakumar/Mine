@@ -1,1 +1,4 @@
+NPM RUN BUILD --FORCE
+NPM INSTALL --SAVE --FORCE
 
+//commands in vercel
