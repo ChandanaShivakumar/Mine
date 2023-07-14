@@ -1,4 +1,4 @@
 NPM RUN BUILD --FORCE
 NPM INSTALL --SAVE --FORCE
 
-//commands in vercel
+//commands in vercel during deployment
